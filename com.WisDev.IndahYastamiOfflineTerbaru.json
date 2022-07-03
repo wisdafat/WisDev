@@ -1,0 +1,301 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Indah Yastami",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Indah Yastami",
+      "title": "ADA RINDU UNTUKMU-PANCEPONDAAG",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/ADARINDUUNTUKMU-PANCEPONDAAG.mp3",
+      "duration": "232",
+      "lyrics": "" 
+	},
+    {
+      "id": 2,
+      "name_category": "Indah Yastami",
+      "title": "AKHIRNYA KU MENEMUKANMU-NAFF",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/AKHIRNYAKUMENEMUKANMU-NAFF.mp3",
+      "duration": "304",
+      "lyrics": "" 
+	},
+    {
+      "id": 3,
+      "name_category": "Indah Yastami",
+      "title": "BEGGIN RATATATATA-MANESKIN",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BEGGINRATATATATA-MANESKIN.mp3",
+      "duration": "201",
+      "lyrics": "" 
+	},
+    {
+      "id": 4,
+      "name_category": "Indah Yastami",
+      "title": "BELAHAN JIWA-DOT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BELAHANJIWA-DOT.mp3",
+      "duration": "242",
+      "lyrics": "" 
+	},
+    {
+      "id": 5,
+      "name_category": "Indah Yastami",
+      "title": "BENCI UNTUK MENCINTA-NAIF",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BENCIUNTUKMENCINTA-NAIF.mp3",
+      "duration": "250",
+      "lyrics": "" 
+	},
+    {
+      "id": 6,
+      "name_category": "Indah Yastami",
+      "title": "BERTAHAN TERLUKA-FABIOASHER",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BERTAHANTERLUKA-FABIOASHER.mp3",
+      "duration": "235",
+      "lyrics": "" 
+	},
+    {
+      "id": 7,
+      "name_category": "Indah Yastami",
+      "title": "BUAT AKU TERSENYUM-SHEILA ON 7",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BUATAKUTERSENYUM-SHEILAON7.mp3",
+      "duration": "166",
+      "lyrics": "" 
+	},
+    {
+      "id": 8,
+      "name_category": "Indah Yastami",
+      "title": "BUIHJADIPERMADANI-EXIST",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BUIHJADIPERMADANI-EXIST.mp3",
+      "duration": "317",
+      "lyrics": "" 
+	},
+    {
+      "id": 9,
+      "name_category": "Indah Yastami",
+      "title": "CINTA SAMPAI MATI-RAFFA AFFAR",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/CINTASAMPAIMATI-RAFFAAFFAR.mp3",
+      "duration": "240",
+      "lyrics": "" 
+	},
+    {
+      "id": 10,
+      "name_category": "Indah Yastami",
+      "title": "DENGAN NAFASMU-UNGU",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DENGANNAFASMU-UNGU.mp3",
+      "duration": "232",
+      "lyrics": "" 
+	},
+    {
+      "id": 11,
+      "name_category": "Indah Yastami",
+      "title": "DIBANDING DIA-LYODRA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DIBANDINGDIA-LYODRA.mp3",
+      "duration": "263",
+      "lyrics": "" 
+	},
+    {
+      "id": 12,
+      "name_category": "Indah Yastami",
+      "title": "DINDA JANGAN MARAH-MARAH-MASDO",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DINDAJANGANMARAHMARAH-MASDO.mp3",
+      "duration": "195",
+      "lyrics": "" 
+	},
+    {
+      "id": 13,
+      "name_category": "Indah Yastami",
+      "title": "DISIKSA RINDU-ANJI",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DISIKSARINDU-ANJI.mp3",
+      "duration": "269",
+      "lyrics": "" 
+	},
+    {
+      "id": 14,
+      "name_category": "Indah Yastami",
+      "title": "DISINI DIBATAS KOTA INI-TOMMY J PISA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DISINIDIBATASKOTAINI-TOMMYJPISA.mp3",
+      "duration": "275",
+      "lyrics": "" 
+	},
+    {
+      "id": 15,
+      "name_category": "Indah Yastami",
+      "title": "DONT LOOK BACK IN ANGER-OASIS",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DONTLOOKBACKINANGER-OASIS.mp3",
+      "duration": "247",
+      "lyrics": "" 
+	},
+    {
+      "id": 16,
+      "name_category": "Indah Yastami",
+      "title": "DUKA-LASTCHILD",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DUKA-LASTCHILD.mp3",
+      "duration": "230",
+      "lyrics": "" 
+	},
+    {
+      "id": 17,
+      "name_category": "Indah Yastami",
+      "title": "DULU-DANAR WIDIANTO",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DULU-DANARWIDIANTO.mp3",
+      "duration": "235",
+      "lyrics": "" 
+	},
+    {
+      "id": 18,
+      "name_category": "Indah Yastami",
+      "title": "DURI DURI-ZIELL FERDIAN",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/DURIDURI-ZIELLFERDIAN.mp3",
+      "duration": "256",
+      "lyrics": "" 
+	},
+    {
+      "id": 19,
+      "name_category": "Indah Yastami",
+      "title": "EASY ON ME-ADELE",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/EASYONME-ADELE.mp3",
+      "duration": "258",
+      "lyrics": "" 
+	},
+    {
+      "id": 20,
+      "name_category": "Indah Yastami",
+      "title": "HAL HEBAT-GOVINDA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/HALHEBAT-GOVINDA.mp3",
+      "duration": "265",
+      "lyrics": "" 
+	},
+    {
+      "id": 21,
+      "name_category": "Indah Yastami",
+      "title": "HANYA SATU PERSINGGAHAN-IKLIM",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/HANYASATUPERSINGGAHAN-IKLIM.mp3",
+      "duration": "275",
+      "lyrics": "" 
+	},
+    {
+      "id": 22,
+      "name_category": "Indah Yastami",
+      "title": "HARGA DIRIKU-WALI",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/HARGADIRIKU-WALI.mp3",
+      "duration": "230",
+      "lyrics": "" 
+	},
+    {
+      "id": 23,
+      "name_category": "Indah Yastami",
+      "title": "JADIAN-THE JUNAS MONKEY",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/JADIAN-THEJUNASMONKEY.mp3",
+      "duration": "266",
+      "lyrics": "" 
+	},
+    {
+      "id": 24,
+      "name_category": "Indah Yastami",
+      "title": "MAAFKAN AKU-ENDA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/MAAFKANAKU-ENDA.mp3",
+      "duration": "293",
+      "lyrics": "" 
+	},
+    {
+      "id": 25,
+      "name_category": "Indah Yastami",
+      "title": "KANGEN-DEWA 19",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/KANGEN-DEWA19.mp3",
+      "duration": "300",
+      "lyrics": "" 
+	},
+    {
+      "id": 26,
+      "name_category": "Indah Yastami",
+      "title": "KARENA KAMU CUMA SATU-NAIF",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/KARENAKAMUCUMASATU-NAIF.mp3",
+      "duration": "242",
+      "lyrics": "" 
+	},
+    {
+      "id": 27,
+      "name_category": "Indah Yastami",
+      "title": "KAU TIGAKAN CINTAKU-ELKASIH",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/KAUTIGAKANCINTAKU-ELKASIH.mp3",
+      "duration": "242",
+      "lyrics": "" 
+	},
+    {
+      "id": 28,
+      "name_category": "Indah Yastami",
+      "title": "KEMBALI UNTUKMU-KOTAK",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/KEMBALIUNTUKMU-KOTAK.mp3",
+      "duration": "200",
+      "lyrics": "" 
+	},
+    {
+      "id": 29,
+      "name_category": "Indah Yastami",
+      "title": "KESEPIAN-DYGTA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/KESEPIAN-DYGTA.mp3",
+      "duration": "226",
+      "lyrics": "" 
+	},
+    {
+      "id": 30,
+      "name_category": "Indah Yastami",
+      "title": "LAMA-LAMA AKU BOSAN-AUDY",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/LAMALAMAAKUBOSAN-AUDY.mp3",
+      "duration": "173",
+      "lyrics": "" 
+	}
+  ]
+}
