@@ -1,0 +1,1381 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "catexgory",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 2,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 3,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 4,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 5,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 6,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 7,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 8,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 9,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 10,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 11,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 12,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 13,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 14,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 15,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 16,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 17,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 18,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 19,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 20,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 21,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 22,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 23,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 24,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 25,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 26,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 27,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 28,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 29,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 30,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 31,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 32,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 33,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 34,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 35,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 36,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 37,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 38,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 39,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 40,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 41,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 42,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 43,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 44,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 45,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 46,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 47,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 48,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 49,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 50,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 51,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 52,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 53,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 54,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 55,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 56,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 57,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 58,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 59,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 60,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 61,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 62,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 63,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 64,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 65,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 66,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 67,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 68,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 69,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 70,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 71,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 72,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 73,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 74,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 75,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 76,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 77,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 78,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 79,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 80,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 81,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 82,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 83,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 84,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 85,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 86,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 87,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 88,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 89,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 90,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 91,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 92,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 93,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 94,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 95,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 96,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 97,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 98,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 99,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 100,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 101,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 102,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 103,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 104,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 105,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 106,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 107,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 108,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 109,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 100,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 111,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 112,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 113,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 114,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 115,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 116,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 117,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 118,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 119,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 120,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 121,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 122,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 123,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 124,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 125,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 126,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 127,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 128,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 129,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 130,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 131,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 132,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 133,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 134,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 135,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 136,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 137,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 138,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 139,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 140,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 141,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 142,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 143,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 144,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 145,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 146,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 147,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 148,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 149,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	},
+    {
+      "id": 150,
+      "name_category": "catexgory",
+      "title": "judul",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/music.mp3",
+      "duration": "00",
+      "lyrics": "" 
+	}
+  ]
+}
