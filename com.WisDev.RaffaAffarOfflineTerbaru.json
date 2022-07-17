@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Raffa Affar",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Raffa Affar",
+      "title": "Al ITiraf",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/AlITiraf.mp3",
+      "duration": "254",
+      "lyrics": "" 
+	},
+    {
+      "id": 2,
+      "name_category": "Raffa Affar",
+      "title": "Antara Ada Dan Tiada - Uthopia",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/AntaraAdaDanTiada-Uthopia.mp3",
+      "duration": "219",
+      "lyrics": "" 
+	},
+    {
+      "id": 3,
+      "name_category": "Raffa Affar",
+      "title": "Biarlah - Killing Me Inside",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/Biarlah-KillingMeInside.mp3",
+      "duration": "207",
+      "lyrics": "" 
+	},
+    {
+      "id": 4,
+      "name_category": "Raffa Affar",
+      "title": "Buih Jadi Permadani - EXIST",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/BuihJadiPermadani-EXIST.mp3",
+      "duration": "348",
+      "lyrics": "" 
+	},
+    {
+      "id": 5,
+      "name_category": "Raffa Affar",
+      "title": "Cari Pacar Lagi - ST 12",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/CariPacarLagi-ST12.mp3",
+      "duration": "188",
+      "lyrics": "" 
+	},
+    {
+      "id": 6,
+      "name_category": "Raffa Affar",
+      "title": "Cinta Sampai Mati",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/CintaSampaiMati.mp3",
+      "duration": "225",
+      "lyrics": "" 
+	},
+    {
+      "id": 7,
+      "name_category": "Raffa Affar",
+      "title": "Cinta Tak Harus Memiliki",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/CintaTakHarusMemiliki.mp3",
+      "duration": "291",
+      "lyrics": "" 
+	},
+    {
+      "id": 8,
+      "name_category": "Raffa Affar",
+      "title": "Cuma Saya - MAC",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/CumaSaya-MAC.mp3",
+      "duration": "139",
+      "lyrics": "" 
+	},
+    {
+      "id": 9,
+      "name_category": "Raffa Affar",
+      "title": "Dinda - Masdo",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/Dinda-Masdo.mp3",
+      "duration": "216",
+      "lyrics": "" 
+	},
+    {
+      "id": 10,
+      "name_category": "Raffa Affar",
+      "title": "Duka - Last Child",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/Duka-LastChild.mp3",
+      "duration": "220",
+      "lyrics": "" 
+	},
+    {
+      "id": 11,
+      "name_category": "Raffa Affar",
+      "title": "Hal Hebat - Govinda",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/HalHebat-Govinda.mp3",
+      "duration": "328",
+      "lyrics": "" 
+	},
+    {
+      "id": 12,
+      "name_category": "Raffa Affar",
+      "title": "Hendaklah Cari Pengganti - Arif",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/HendaklahCariPengganti-Arif.mp3",
+      "duration": "242",
+      "lyrics": "" 
+	},
+    {
+      "id": 13,
+      "name_category": "Raffa Affar",
+      "title": "Hujan Kemarin - Taxi",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/HujanKemarin-Taxi.mp3",
+      "duration": "285",
+      "lyrics": "" 
+	},
+    {
+      "id": 14,
+      "name_category": "Raffa Affar",
+      "title": "Ingin Hilang Ingatan - Rocket Rockers",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/InginHilangIngatan-RocketRockers.mp3",
+      "duration": "243",
+      "lyrics": "" 
+	},
+    {
+      "id": 15,
+      "name_category": "Raffa Affar",
+      "title": "Janji Suci - Yovie Nuno",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/JanjiSuci-YovieNuno.mp3",
+      "duration": "209",
+      "lyrics": "" 
+	},
+    {
+      "id": 16,
+      "name_category": "Raffa Affar",
+      "title": "Korban Janji - Guyon Waton",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/KorbanJanji-GuyonWaton.mp3",
+      "duration": "175",
+      "lyrics": "" 
+	},
+    {
+      "id": 17,
+      "name_category": "Raffa Affar",
+      "title": "Masa Lalu - Inul Daratista",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/MasaLalu-InulDaratista.mp3",
+      "duration": "207",
+      "lyrics": "" 
+	},
+    {
+      "id": 18,
+      "name_category": "Raffa Affar",
+      "title": "Masih Disini Denganmu - Goliath",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/MasihDisiniDenganmu-Goliath.mp3",
+      "duration": "82",
+      "lyrics": "" 
+	},
+    {
+      "id": 19,
+      "name_category": "Raffa Affar",
+      "title": "Melukis Senja - Budi DoReMi",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/MelukisSenja-BudiDoReMi.mp3",
+      "duration": "196",
+      "lyrics": "" 
+	},
+    {
+      "id": 20,
+      "name_category": "Raffa Affar",
+      "title": "Mengharapkanmu - Tegar",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/Mengharapkanmu-Tegar.mp3",
+      "duration": "160",
+      "lyrics": "" 
+	},
+    {
+      "id": 21,
+      "name_category": "Raffa Affar",
+      "title": "Pedih - Last Child",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/Pedih-LastChild.mp3",
+      "duration": "232",
+      "lyrics": "" 
+	},
+    {
+      "id": 22,
+      "name_category": "Raffa Affar",
+      "title": "Penantian - Armada",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/Penantian-Armada.mp3",
+      "duration": "206",
+      "lyrics": "" 
+	},
+    {
+      "id": 23,
+      "name_category": "Raffa Affar",
+      "title": "Pergi Hilang Dan Lupakan - Remember of Today",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/PergiHilangDanLupakan-RememberofToday.mp3",
+      "duration": "309",
+      "lyrics": "" 
+	},
+    {
+      "id": 24,
+      "name_category": "Raffa Affar",
+      "title": "Putus Atau Terus - Judika",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/PutusAtauTerus-Judika.mp3",
+      "duration": "260",
+      "lyrics": "" 
+	},
+    {
+      "id": 25,
+      "name_category": "Raffa Affar",
+      "title": "Salam Rinduku - Didik Budi",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/SalamRinduku-DidikBudi.mp3",
+      "duration": "182",
+      "lyrics": "" 
+	},
+    {
+      "id": 26,
+      "name_category": "Raffa Affar",
+      "title": "Seluruh Nafas Ini - Last Child",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/SeluruhNafasIni-LastChild.mp3",
+      "duration": "166",
+      "lyrics": "" 
+	},
+    {
+      "id": 27,
+      "name_category": "Raffa Affar",
+      "title": "Shalawat Badar Cut Zuhra",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/ShalawatBadarCutZuhra.mp3",
+      "duration": "191",
+      "lyrics": "" 
+	},
+    {
+      "id": 28,
+      "name_category": "Raffa Affar",
+      "title": "Suci Dalam Debu - IKLIM",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/SuciDalamDebu-IKLIM.mp3",
+      "duration": "215",
+      "lyrics": "" 
+	},
+    {
+      "id": 29,
+      "name_category": "Raffa Affar",
+      "title": "Suka Sama Kamu - DBagindas",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "file:///android_asset/mp3/SukaSamaKamu-DBagindas.mp3",
+      "duration": "124",
+      "lyrics": "" 
+	}
+  ]
+}
