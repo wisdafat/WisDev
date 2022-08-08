@@ -1,0 +1,245 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Farel Prayoga",
+      "title": "Aku Ngamen - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Aku_Ngamen_-_Farel_Prayoga.mp3",
+      "duration": "278",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 2,
+      "name_category": "Farel Prayoga",
+      "title": "Buih Jadi Permadani - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Buih_Jadi_Permadani_-_Farel_Prayoga.mp3",
+      "duration": "287",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 3,
+      "name_category": "Farel Prayoga",
+      "title": "Cidro 3 - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Cidro_3_-_Farel_Prayoga.mp3",
+      "duration": "393",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 4,
+      "name_category": "Farel Prayoga",
+      "title": "Dermaga Biru - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Dermaga_Biru_-_Farel_Prayoga.mp3",
+      "duration": "307",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 5,
+      "name_category": "Farel Prayoga",
+      "title": "Gemantung Roso - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Gemantung_Roso_-_Farel_Prayoga.mp3",
+      "duration": "491",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 6,
+      "name_category": "Farel Prayoga",
+      "title": "Joko Tingkir Ngombet Dawet - Farel Prayoga Ft Yeni Inka",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Joko_Tingkir_Ngombet_Dawet_-_Farel_Prayoga_Ft_Yeni_Inka.mp3",
+      "duration": "278",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 7,
+      "name_category": "Farel Prayoga",
+      "title": "Kanggo Riko - Farel Prayoga Ft IrwanD2",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Kanggo_Riko_-_Farel_Prayoga_Ft_IrwanD2.mp3",
+      "duration": "301",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 8,
+      "name_category": "Farel Prayoga",
+      "title": "Kelangan - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Kelangan_-_Farel_Prayoga.mp3",
+      "duration": "421",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 9,
+      "name_category": "Farel Prayoga",
+      "title": "Kelangan 2 - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Kelangan_2_-_Farel_Prayoga.mp3",
+      "duration": "311",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 10,
+      "name_category": "Farel Prayoga",
+      "title": "Kepaling - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Kepaling_-_Farel_Prayoga.mp3",
+      "duration": "237",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 11,
+      "name_category": "Farel Prayoga",
+      "title": "Linting Daun - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Linting_Daun_-_Farel_Prayoga.mp3",
+      "duration": "250",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 12,
+      "name_category": "Farel Prayoga",
+      "title": "Lungset - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Lungset_-_Farel_Prayoga.mp3",
+      "duration": "309",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 13,
+      "name_category": "Farel Prayoga",
+      "title": "Maafkan Aku - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Maafkan_Aku_-_Farel_Prayoga.mp3",
+      "duration": "255",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 14,
+      "name_category": "Farel Prayoga",
+      "title": "Mengapa Dia - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Mengapa_Dia_-_Farel_Prayoga.mp3",
+      "duration": "313",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 15,
+      "name_category": "Farel Prayoga",
+      "title": "Ngamen 5 - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Ngamen_5_-_Farel_Prayoga.mp3",
+      "duration": "311",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 16,
+      "name_category": "Farel Prayoga",
+      "title": "Ngomong Apik Apik - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Ngomong_Apik_Apik_-_Farel_Prayoga.mp3",
+      "duration": "340",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 17,
+      "name_category": "Farel Prayoga",
+      "title": "Nyandang Roso - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Nyandang_Roso_-_Farel_Prayoga.mp3",
+      "duration": "334",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 18,
+      "name_category": "Farel Prayoga",
+      "title": "Ojo Dibandingke - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Ojo_Dibandingke_-_Farel_Prayoga.mp3",
+      "duration": "317",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 19,
+      "name_category": "Farel Prayoga",
+      "title": "Ojo Ngece Karo - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Ojo_Ngece_Karo_-_Farel_Prayoga.mp3",
+      "duration": "258",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 20,
+      "name_category": "Farel Prayoga",
+      "title": "Percumo - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Percumo_-_Farel_Prayoga.mp3",
+      "duration": "323",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 21,
+      "name_category": "Farel Prayoga",
+      "title": "Satru 2 - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Satru_2_-_Farel_Prayoga.mp3",
+      "duration": "322",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 22,
+      "name_category": "Farel Prayoga",
+      "title": "Sekuntum Mawar Merah - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Sekuntum_Mawar_Merah_-_Farel_Prayoga.mp3",
+      "duration": "242",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 23,
+      "name_category": "Farel Prayoga",
+      "title": "Semebyar - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Semebyar_-_Farel_Prayoga.mp3",
+      "duration": "311",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 24,
+      "name_category": "Farel Prayoga",
+      "title": "Suworo - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Suworo_-_Farel_Prayoga.mp3",
+      "duration": "342",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 25,
+      "name_category": "Farel Prayoga",
+      "title": "Tepung Kanji - Farel Prayoga Ft Suci Tacik",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Tepung_Kanji_-_Farel_Prayoga_Ft_Suci_Tacik.mp3",
+      "duration": "297",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 26,
+      "name_category": "Farel Prayoga",
+      "title": "Ulihe Ngenteni - Farel Prayoga",
+      "image": "file:///android_asset/Farel_Prayoga/tray.jpg",
+      "link_mp3": "file:///android_asset/Farel_Prayoga/Ulihe_Ngenteni_-_Farel_Prayoga.mp3",
+      "duration": "271",
+      "lyrics": "Tidak Ada Lirik"
+    }
+  ]
+}
