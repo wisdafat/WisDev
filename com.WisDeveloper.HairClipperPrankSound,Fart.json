@@ -1,0 +1,1064 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Airhorn",
+      "image": "file:///android_asset/Airhorn/tray.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Baby Sneeze",
+      "image": "file:///android_asset/Baby_Sneeze/tray.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Burp",
+      "image": "file:///android_asset/Burp/tray.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Carengine",
+      "image": "file:///android_asset/Carengine/tray.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Carhorn",
+      "image": "file:///android_asset/Carhorn/tray.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Doorbell",
+      "image": "file:///android_asset/Doorbell/tray.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Fake Call",
+      "image": "file:///android_asset/Fake_Call/tray.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Fart",
+      "image": "file:///android_asset/Fart/tray.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Fart Song",
+      "image": "file:///android_asset/Fart_Song/tray.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Glass Break",
+      "image": "file:///android_asset/Glass_Break/tray.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Hair Clipper",
+      "image": "file:///android_asset/Hair_Clipper/tray.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Laser",
+      "image": "file:///android_asset/Laser/tray.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Man Cough",
+      "image": "file:///android_asset/Man_Cough/tray.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Man Sneeze",
+      "image": "file:///android_asset/Man_Sneeze/tray.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Police",
+      "image": "file:///android_asset/Police/tray.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Scan",
+      "image": "file:///android_asset/Scan/tray.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "White Noise",
+      "image": "file:///android_asset/White_Noise/tray.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Women Cough",
+      "image": "file:///android_asset/Women_Cough/tray.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Women Sneeze",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 1",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_1.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 2,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 2",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_2.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 3,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 3",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_3.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 4,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 4",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_4.mp3",
+      "duration": "4",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 5,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 5",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_5.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 6,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 6",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_6.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 7,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 7",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_7.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 8,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 8",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_8.mp3",
+      "duration": "4",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 9,
+      "name_category": "Airhorn",
+      "title": "Funny Airhorn 9",
+      "image": "file:///android_asset/Airhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Airhorn/Funny_Airhorn_9.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 10,
+      "name_category": "Baby Sneeze",
+      "title": "                              ",
+      "image": "file:///android_asset/Baby_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Baby_Sneeze/Funny_Baby_Sneeze_1.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 11,
+      "name_category": "Baby Sneeze",
+      "title": "Funny Baby Sneeze 2",
+      "image": "file:///android_asset/Baby_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Baby_Sneeze/Funny_Baby_Sneeze_2.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 12,
+      "name_category": "Burp",
+      "title": "Funny Burp 1",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_1.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 13,
+      "name_category": "Burp",
+      "title": "Funny Burp 10",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_10.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 14,
+      "name_category": "Burp",
+      "title": "Funny Burp 11",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_11.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 15,
+      "name_category": "Burp",
+      "title": "Funny Burp 12",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_12.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 16,
+      "name_category": "Burp",
+      "title": "Funny Burp 2",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_2.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 17,
+      "name_category": "Burp",
+      "title": "Funny Burp 3",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_3.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 18,
+      "name_category": "Burp",
+      "title": "Funny Burp 4",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_4.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 19,
+      "name_category": "Burp",
+      "title": "Funny Burp 5",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_5.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 20,
+      "name_category": "Burp",
+      "title": "Funny Burp 6",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_6.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 21,
+      "name_category": "Burp",
+      "title": "Funny Burp 7",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_7.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 22,
+      "name_category": "Burp",
+      "title": "Funny Burp 8",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_8.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 23,
+      "name_category": "Burp",
+      "title": "Funny Burp 9",
+      "image": "file:///android_asset/Burp/tray.jpg",
+      "link_mp3": "file:///android_asset/Burp/Funny_Burp_9.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 24,
+      "name_category": "Carengine",
+      "title": "Funny Carengine 1",
+      "image": "file:///android_asset/Carengine/tray.jpg",
+      "link_mp3": "file:///android_asset/Carengine/Funny_Carengine_1.mp3",
+      "duration": "16",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 25,
+      "name_category": "Carengine",
+      "title": "Funny Carengine 2",
+      "image": "file:///android_asset/Carengine/tray.jpg",
+      "link_mp3": "file:///android_asset/Carengine/Funny_Carengine_2.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 26,
+      "name_category": "Carengine",
+      "title": "Funny Carengine 3",
+      "image": "file:///android_asset/Carengine/tray.jpg",
+      "link_mp3": "file:///android_asset/Carengine/Funny_Carengine_3.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 27,
+      "name_category": "Carengine",
+      "title": "Funny Carengine 4",
+      "image": "file:///android_asset/Carengine/tray.jpg",
+      "link_mp3": "file:///android_asset/Carengine/Funny_Carengine_4.mp3",
+      "duration": "11",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 28,
+      "name_category": "Carengine",
+      "title": "Funny Carengine 5",
+      "image": "file:///android_asset/Carengine/tray.jpg",
+      "link_mp3": "file:///android_asset/Carengine/Funny_Carengine_5.mp3",
+      "duration": "15",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 29,
+      "name_category": "Carhorn",
+      "title": "Funny Carhorn 1",
+      "image": "file:///android_asset/Carhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Carhorn/Funny_Carhorn_1.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 30,
+      "name_category": "Carhorn",
+      "title": "Funny Carhorn 2",
+      "image": "file:///android_asset/Carhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Carhorn/Funny_Carhorn_2.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 31,
+      "name_category": "Carhorn",
+      "title": "Funny Carhorn 3",
+      "image": "file:///android_asset/Carhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Carhorn/Funny_Carhorn_3.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 32,
+      "name_category": "Carhorn",
+      "title": "Cartoony Horn; Wah-wah Mute Horn.",
+      "image": "file:///android_asset/Carhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Carhorn/Funny_Carhorn_4.mp3",
+      "duration": "6",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 33,
+      "name_category": "Carhorn",
+      "title": "COMEDY, HORN - CARTOON HORN: CAR HORN HONK Comic Noisemakers",
+      "image": "file:///android_asset/Carhorn/tray.jpg",
+      "link_mp3": "file:///android_asset/Carhorn/Funny_Carhorn_5.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 34,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 1",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_1.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 35,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 10",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_10.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 36,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 2",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_2.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 37,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 3",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_3.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 38,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 4",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_4.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 39,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 5",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_5.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 40,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 6",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_6.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 41,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 7",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_7.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 42,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 8",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_8.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 43,
+      "name_category": "Doorbell",
+      "title": "Funny Doorbell 9",
+      "image": "file:///android_asset/Doorbell/tray.jpg",
+      "link_mp3": "file:///android_asset/Doorbell/Funny_Doorbell_9.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 44,
+      "name_category": "Fake Call",
+      "title": "Hangouts Call",
+      "image": "file:///android_asset/Fake_Call/tray.jpg",
+      "link_mp3": "file:///android_asset/Fake_Call/Fake_Call_Hangouts.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 45,
+      "name_category": "Fart",
+      "title": "Fart Fart 1",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_1.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 46,
+      "name_category": "Fart",
+      "title": "Fart Fart 10",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_10.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 47,
+      "name_category": "Fart",
+      "title": "Fart Fart 11",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_11.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 48,
+      "name_category": "Fart",
+      "title": "Fart Fart 12",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_12.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 49,
+      "name_category": "Fart",
+      "title": "Fart Fart 13",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_13.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 50,
+      "name_category": "Fart",
+      "title": "Fart Fart 14",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_14.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 51,
+      "name_category": "Fart",
+      "title": "Fart Fart 15",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_15.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 52,
+      "name_category": "Fart",
+      "title": "Fart Fart 2",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_2.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 53,
+      "name_category": "Fart",
+      "title": "Fart Fart 3",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_3.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 54,
+      "name_category": "Fart",
+      "title": "Fart Fart 4",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_4.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 55,
+      "name_category": "Fart",
+      "title": "Fart Fart 5",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_5.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 56,
+      "name_category": "Fart",
+      "title": "Fart Fart 6",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_6.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 57,
+      "name_category": "Fart",
+      "title": "Fart Fart 7",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_7.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 58,
+      "name_category": "Fart",
+      "title": "Fart Fart 8",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_8.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 59,
+      "name_category": "Fart",
+      "title": "Fart Fart 9",
+      "image": "file:///android_asset/Fart/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart/Fart_Fart_9.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 60,
+      "name_category": "Fart Song",
+      "title": "Fart Song 1",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_1.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 61,
+      "name_category": "Fart Song",
+      "title": "Fart Song 10",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_10.mp3",
+      "duration": "15",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 62,
+      "name_category": "Fart Song",
+      "title": "Fart Song 11",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_11.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 63,
+      "name_category": "Fart Song",
+      "title": "Fart Song 12",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_12.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 64,
+      "name_category": "Fart Song",
+      "title": "Fart Song 2",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_2.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 65,
+      "name_category": "Fart Song",
+      "title": "Fart Song 3",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_3.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 66,
+      "name_category": "Fart Song",
+      "title": "Fart Song 4",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_4.mp3",
+      "duration": "70",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 67,
+      "name_category": "Fart Song",
+      "title": "Fart Song 5",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_5.mp3",
+      "duration": "42",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 68,
+      "name_category": "Fart Song",
+      "title": "Fart Song 6",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_6.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 69,
+      "name_category": "Fart Song",
+      "title": "Fart Song 7",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_7.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 70,
+      "name_category": "Fart Song",
+      "title": "Fart Song 8",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_8.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 71,
+      "name_category": "Fart Song",
+      "title": "Fart Song 9",
+      "image": "file:///android_asset/Fart_Song/tray.jpg",
+      "link_mp3": "file:///android_asset/Fart_Song/Fart_Song_9.mp3",
+      "duration": "32",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 72,
+      "name_category": "Glass Break",
+      "title": "Glass Break",
+      "image": "file:///android_asset/Glass_Break/tray.jpg",
+      "link_mp3": "file:///android_asset/Glass_Break/Glass_Break.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 73,
+      "name_category": "Hair Clipper",
+      "title": "Hair Clipper Hair Dryer",
+      "image": "file:///android_asset/Hair_Clipper/tray.jpg",
+      "link_mp3": "file:///android_asset/Hair_Clipper/Hair_Clipper_Hair_Dryer.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 74,
+      "name_category": "Hair Clipper",
+      "title": "Hair Clipper Scissors",
+      "image": "file:///android_asset/Hair_Clipper/tray.jpg",
+      "link_mp3": "file:///android_asset/Hair_Clipper/Hair_Clipper_Scissors.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 75,
+      "name_category": "Hair Clipper",
+      "title": "Hair Clipper",
+      "image": "file:///android_asset/Hair_Clipper/tray.jpg",
+      "link_mp3": "file:///android_asset/Hair_Clipper/Hair_Clipper.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 76,
+      "name_category": "Hair Clipper",
+      "title": "Hairclipper Open",
+      "image": "file:///android_asset/Hair_Clipper/tray.jpg",
+      "link_mp3": "file:///android_asset/Hair_Clipper/Hairclipper_Open.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 77,
+      "name_category": "Laser",
+      "title": "Laser",
+      "image": "file:///android_asset/Laser/tray.jpg",
+      "link_mp3": "file:///android_asset/Laser/Laser.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 78,
+      "name_category": "Man Cough",
+      "title": "Funny Man Cough 1",
+      "image": "file:///android_asset/Man_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Cough/Funny_Man_Cough_1.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 79,
+      "name_category": "Man Cough",
+      "title": "Funny Man Cough 2",
+      "image": "file:///android_asset/Man_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Cough/Funny_Man_Cough_2.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 80,
+      "name_category": "Man Cough",
+      "title": "Funny Man Cough 3",
+      "image": "file:///android_asset/Man_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Cough/Funny_Man_Cough_3.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 81,
+      "name_category": "Man Cough",
+      "title": "Funny Man Cough 4",
+      "image": "file:///android_asset/Man_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Cough/Funny_Man_Cough_4.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 82,
+      "name_category": "Man Cough",
+      "title": "Funny Man Cough 5",
+      "image": "file:///android_asset/Man_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Cough/Funny_Man_Cough_5.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 83,
+      "name_category": "Man Cough",
+      "title": "Funny Man Cough Strong 1",
+      "image": "file:///android_asset/Man_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Cough/Funny_Man_Cough_Strong_1.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 84,
+      "name_category": "Man Sneeze",
+      "title": "                              ",
+      "image": "file:///android_asset/Man_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Sneeze/Funny_Man_Sneeze_1.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 85,
+      "name_category": "Man Sneeze",
+      "title": "Funny Man Sneeze 2",
+      "image": "file:///android_asset/Man_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Sneeze/Funny_Man_Sneeze_2.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 86,
+      "name_category": "Man Sneeze",
+      "title": "Funny Man Sneeze 3",
+      "image": "file:///android_asset/Man_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Sneeze/Funny_Man_Sneeze_3.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 87,
+      "name_category": "Man Sneeze",
+      "title": "Funny Man Sneeze 4",
+      "image": "file:///android_asset/Man_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Sneeze/Funny_Man_Sneeze_4.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 88,
+      "name_category": "Man Sneeze",
+      "title": "                              ",
+      "image": "file:///android_asset/Man_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Man_Sneeze/Funny_Man_Sneeze_Strong_1.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 89,
+      "name_category": "Police",
+      "title": "Funny Police 1",
+      "image": "file:///android_asset/Police/tray.jpg",
+      "link_mp3": "file:///android_asset/Police/Funny_Police_1.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 90,
+      "name_category": "Police",
+      "title": "Funny Police 2",
+      "image": "file:///android_asset/Police/tray.jpg",
+      "link_mp3": "file:///android_asset/Police/Funny_Police_2.mp3",
+      "duration": "23",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 91,
+      "name_category": "Police",
+      "title": "Funny Police 3",
+      "image": "file:///android_asset/Police/tray.jpg",
+      "link_mp3": "file:///android_asset/Police/Funny_Police_3.mp3",
+      "duration": "2",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 92,
+      "name_category": "Police",
+      "title": "Funny Police 4",
+      "image": "file:///android_asset/Police/tray.jpg",
+      "link_mp3": "file:///android_asset/Police/Funny_Police_4.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 93,
+      "name_category": "Police",
+      "title": "Funny Police 5",
+      "image": "file:///android_asset/Police/tray.jpg",
+      "link_mp3": "file:///android_asset/Police/Funny_Police_5.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 94,
+      "name_category": "Police",
+      "title": "Funny Police 6",
+      "image": "file:///android_asset/Police/tray.jpg",
+      "link_mp3": "file:///android_asset/Police/Funny_Police_6.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 95,
+      "name_category": "Scan",
+      "title": "Scan Sound",
+      "image": "file:///android_asset/Scan/tray.jpg",
+      "link_mp3": "file:///android_asset/Scan/Scan_Sound.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 96,
+      "name_category": "White Noise",
+      "title": "White Noise 1",
+      "image": "file:///android_asset/White_Noise/tray.jpg",
+      "link_mp3": "file:///android_asset/White_Noise/White_Noise_1.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 97,
+      "name_category": "White Noise",
+      "title": "White Noise 2",
+      "image": "file:///android_asset/White_Noise/tray.jpg",
+      "link_mp3": "file:///android_asset/White_Noise/White_Noise_2.mp3",
+      "duration": "6",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 98,
+      "name_category": "White Noise",
+      "title": "White Noise 3",
+      "image": "file:///android_asset/White_Noise/tray.jpg",
+      "link_mp3": "file:///android_asset/White_Noise/White_Noise_3.mp3",
+      "duration": "8",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 99,
+      "name_category": "Women Cough",
+      "title": "Funny Woman Cough 1",
+      "image": "file:///android_asset/Women_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Cough/Funny_Woman_Cough_1.mp3",
+      "duration": "6",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 100,
+      "name_category": "Women Cough",
+      "title": "Funny Woman Cough 2",
+      "image": "file:///android_asset/Women_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Cough/Funny_Woman_Cough_2.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 101,
+      "name_category": "Women Cough",
+      "title": "Funny Woman Cough 3",
+      "image": "file:///android_asset/Women_Cough/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Cough/Funny_Woman_Cough_3.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 102,
+      "name_category": "Women Sneeze",
+      "title": "                              ",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Sneeze/Funny_Woman_Sneeze_1.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 103,
+      "name_category": "Women Sneeze",
+      "title": "                              ",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Sneeze/Funny_Woman_Sneeze_2.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 104,
+      "name_category": "Women Sneeze",
+      "title": "Funny Woman Sneeze 3",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Sneeze/Funny_Woman_Sneeze_3.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 105,
+      "name_category": "Women Sneeze",
+      "title": "Funny Woman Sneeze 4",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Sneeze/Funny_Woman_Sneeze_4.mp3",
+      "duration": "1",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 106,
+      "name_category": "Women Sneeze",
+      "title": "Funny Woman Sneeze 5",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Sneeze/Funny_Woman_Sneeze_5.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 107,
+      "name_category": "Women Sneeze",
+      "title": "Funny Woman Sneeze 6",
+      "image": "file:///android_asset/Women_Sneeze/tray.jpg",
+      "link_mp3": "file:///android_asset/Women_Sneeze/Funny_Woman_Sneeze_6.mp3",
+      "duration": "0",
+      "lyrics": "Tidak Ada Lirik"
+    }
+  ]
+}
